@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m  Learning as Data Analyst<br>- 📚 I'm currently learning SQL & PYTHON<br>- ⚡ In my free time I do Video Editing .</p>
+<p align="left">I'm Tushar from Lucknow,Uttarpradesh<br><br>- 🔭 I’m  Learning as Data Analyst<br>- 📚 I'm currently learning SQL & PYTHON<br>- ⚡ In my free time I do Video Editing .</p>
 
 ###
 
